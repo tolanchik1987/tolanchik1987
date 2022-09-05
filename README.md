@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tolanchik1987" target="blank"><img src="https://img.shields.io/twitter/follow/tolanchik1987?logo=twitter&style=for-the-badge" alt="tolanchik1987" /></a> </p>
 
-- 🔭 I’m currently working on [MYFIRSTPROJECT](tolanchik1987.github.io/myfirstproject/)
+- 🔭 I’m currently working on [MYFIRSTPROJECT](tolanchik1987.github.io/myfirstproject)
 
 - 🌱 I’m currently learning **TYPESCRIPT**
 
