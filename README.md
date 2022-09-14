@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on [MYFIRSTPROJECT](https://tolanchik1987.github.io/myfirstproject)
 
+- 🔭 Look my porfolio [ABOUT MY](https://tolanchik1987.github.io/portfolio)
+
 - 🌱 I’m currently learning **TYPESCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolanchik1987](https://github.com/tolanchik1987)
