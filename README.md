@@ -6,15 +6,15 @@
 
 <p align="centr"> <a href="https://vk.com/id134873524" target="blank"><img src="https://djdiplomat.ru/wp-content/uploads/dda9a68fd7273654e4f2e4c0ab998c56.jpg" alt="tolanchik1987" width="100px" /></a> </p>
 
-- 🔭 I’m currently working on [MYFIRSTPROJECT](https://tolanchik1987.github.io/myfirstproject)
+- 🔭 I’m currently working on [GAME STORE](https://github.com/tolanchik1987/gamestore)
 
 - 🔭 Look my porfolio [ABOUT MY](https://tolanchik1987.github.io/portfolio)
 
-- 🌱 I’m currently learning **TYPESCRIPT**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolanchik1987](https://github.com/tolanchik1987)
 
-- 💬 Ask me about **REACT,JS,TS**
+- 💬 Ask me about **REACT,JS,TS,REDAX toolkit, AXIOS, HTML5, CSS3, SASS**
 
 - 📫 How to reach me **tolanchik1987@mail.ru and +79874536344**
 
