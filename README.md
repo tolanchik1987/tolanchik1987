@@ -6,7 +6,7 @@
 
 <p align="centr"> <a href="https://vk.com/id134873524" target="blank"><img src="https://djdiplomat.ru/wp-content/uploads/dda9a68fd7273654e4f2e4c0ab998c56.jpg" alt="tolanchik1987" width="100px" /></a> </p>
 
-- 🔭 I’m currently working on [GAME STORE](https://github.com/tolanchik1987/gamestore)
+- 🔭 I’m currently working on [GAME STORE](https://tolanchik1987.github.io/gamestore/)
 
 - 🔭 Look my porfolio [ABOUT MY](https://tolanchik1987.github.io/portfolio)
 
